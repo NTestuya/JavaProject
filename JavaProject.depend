@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1475829995 source:c:\users\jalon\documents\code\javaproject\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<fstream>
+	<string>
+	<sstream>
+
